@@ -30,11 +30,13 @@ The project includes a detailed presentation:
 Here are some screenshots of the game in action:
 
 ### Game Interface
-Game Interface[1](https://github.com/user-attachments/assets/8544c736-abe3-40b6-9b1c-a533336ccfcb)
+![1](https://github.com/user-attachments/assets/e1ddaddf-9805-4f80-9a11-700b08cf395b)
+
 
 
 ### Question Screen
-Question Screen![2](https://github.com/user-attachments/assets/f033debb-200f-429f-8e7b-d614f22dd98d)
+
+![2](https://github.com/user-attachments/assets/77eda750-7ad4-4a5f-83b1-d337fa13e183)
 
 
 ### Correct Answer

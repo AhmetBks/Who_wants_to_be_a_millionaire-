@@ -30,12 +30,12 @@ The project includes a detailed presentation:
 Here are some screenshots of the game in action:
 
 ### Game Interface
-![Game Interface]![1](https://github.com/user-attachments/assets/8544c736-abe3-40b6-9b1c-a533336ccfcb)
+Game Interface[1](https://github.com/user-attachments/assets/8544c736-abe3-40b6-9b1c-a533336ccfcb)
 
 
 ### Question Screen
-![Question Screen](![2](https://github.com/user-attachments/assets/f033debb-200f-429f-8e7b-d614f22dd98d)
-)
+Question Screen![2](https://github.com/user-attachments/assets/f033debb-200f-429f-8e7b-d614f22dd98d)
+
 
 ### Correct Answer
 ![Jokers](.![3](https://github.com/user-attachments/assets/ca248427-1441-4c7a-adcc-0ed7ca03e7b6)

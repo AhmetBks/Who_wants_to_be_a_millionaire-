@@ -23,7 +23,8 @@ The application is structured as a three-tier architecture:
 
 The project includes a detailed presentation:
 
-👉 [Download Millionaire_Presentation.pptx](./presentation/Millionaire_Presentation.pptx)
+👉 [Milyoner_presentation.pptx](https://github.com/user-attachments/files/20525847/Milyoner_presentation.pptx)
+
 
 ## Game Screenshots
 
@@ -40,25 +41,27 @@ Here are some screenshots of the game in action:
 
 
 ### Correct Answer
-![Jokers](.![3](https://github.com/user-attachments/assets/ca248427-1441-4c7a-adcc-0ed7ca03e7b6)
-)
+![3](https://github.com/user-attachments/assets/9c245f9f-2f78-4785-b35a-c27268159cea)
+
 
 
 ### Using Audience Jokers
-![Jokers]![4](https://github.com/user-attachments/assets/c47d9d81-7087-460b-bbdf-08817e40b153)
+![4](https://github.com/user-attachments/assets/7572d8b9-32bd-4d24-85d3-e0ee5a4a20ae)
 
 
 ### Using 50:50 Jokers
-![Jokers](![5](https://github.com/user-attachments/assets/b41d1858-eb02-45aa-aada-1d33cc86139a)
-)
+![5](https://github.com/user-attachments/assets/9151d063-4db3-4261-b32e-66d9d76090f4)
+
 
 ### Winning Moment
-![Winning Moment](![6](https://github.com/user-attachments/assets/af40569f-433b-4578-a573-4be71b23511c)
-)
+![6](https://github.com/user-attachments/assets/0404b0fd-b191-4307-b7b2-8f69d54e6256)
+
+
 
 ### Game Over Screen
-![Game Over](![7](https://github.com/user-attachments/assets/53fc6997-c694-4a8d-9d4d-6a7fb19e5126)
-)
+![7](https://github.com/user-attachments/assets/648f773e-c4aa-49e2-89dd-c0688d015f4d)
+
+
 
 ## Getting Started
 
